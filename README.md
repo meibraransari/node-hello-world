@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:08:38+05:30
-Updated: 2024-08-12T23:00:09+05:30
+Updated: 2024-08-12T23:03:03+05:30
 Maintainer: Ibrar Ansari
 ---
 # Node Hello World
@@ -20,6 +20,9 @@ You need to write the following commands on the terminal screen so that you can 
 ```
 
 The application is running on [http://localhost:3000](http://localhost:3000).
+
+
+[See PM2 cheat-sheet to run node project from PM2:](https://github.com/meibraransari/pm2-cheatsheet)
 
 ### 💼 Connect with me 👇👇 😊
 
