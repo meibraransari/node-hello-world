@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:08:38+05:30
-Updated: 2024-08-12T22:58:30+05:30
+Updated: 2024-08-12T23:00:09+05:30
 Maintainer: Ibrar Ansari
 ---
 # Node Hello World
@@ -16,7 +16,7 @@ You need to write the following commands on the terminal screen so that you can 
 ```sh
 1. git clone https://github.com/meibraransari/node-hello-world.git
 2. cd node-hello-world
-3. `node index.js`
+3. node index.js
 ```
 
 The application is running on [http://localhost:3000](http://localhost:3000).
