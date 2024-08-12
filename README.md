@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:08:38+05:30
-Updated: 2024-07-27T14:10:31+05:30
+Updated: 2024-08-12T22:58:30+05:30
 Maintainer: Ibrar Ansari
 ---
 # Node Hello World
@@ -9,9 +9,17 @@ Simple node.js app that servers "Hello World"
 
 Good for testing simple deployments to the cloud
 
-## Run It
+# Run It
 
-`node index.js`
+You need to write the following commands on the terminal screen so that you can run the project locally.
+
+```sh
+1. git clone https://github.com/meibraransari/node-hello-world.git
+2. cd node-hello-world
+3. `node index.js`
+```
+
+The application is running on [http://localhost:3000](http://localhost:3000).
 
 ### 💼 Connect with me 👇👇 😊
 
